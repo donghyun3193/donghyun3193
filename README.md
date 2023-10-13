@@ -46,10 +46,6 @@ Here are some ideas to get you started:
   
 </div>
 
-<div align="right">
-  
- [![](https://visitcount.itsvg.in/api?id=donghyun3193&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
-</div>
 
 
 <!--![snake gif](https://github.com/donghyun3193/donghyun3193/blob/output/github-contribution-grid-snake.svg)-->
